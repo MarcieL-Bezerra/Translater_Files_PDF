@@ -25,8 +25,13 @@ Para usar o aplicativo usando a tela do app no arquivo "main.py", você precisa:
     4. Selecionar o idioma de destino.
     5. Clicar no botão "Translate PDF file".
 
-    ![Tela do aplicativo Translate File PDF](img/screenshot.png)
-    ![Tela do aplicativo Translate File PDF](img/screenshot2.png)
+    <p align="center">
+        <img src="img/screenshot.png" width="80%" />
+    </p>
+    <p align="center">
+        <img src="img/screenshot2.png" width="80%" />
+    </p>
+
 
 ## Requisitos
 - Python 3.x
