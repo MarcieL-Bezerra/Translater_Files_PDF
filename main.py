@@ -90,3 +90,6 @@ btn_translate_file = tk.Button(main_frame, text="Translate PDF file", command=tr
 btn_translate_file.pack(pady=11)
 
 root.mainloop()
+
+
+# python -m PyInstaller --onefile --windowed --icon=img/Picture1.ico main.py
